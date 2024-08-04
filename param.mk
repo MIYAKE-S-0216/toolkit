@@ -14,7 +14,7 @@ SRCS += \
 	$(RELATIVE_PATH)/ssd1306/src/ssd1306.c
 
 
-LDFLAGS += \
-	-lcurl \
-	-ljson-c
+#LDFLAGS += \
+#	-lcurl \
+#	-ljson-c
 
